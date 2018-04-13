@@ -1,0 +1,1 @@
+# buddypress-group-user-on-spam
